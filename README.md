@@ -1,0 +1,1 @@
+alfa - začátek programu, první funkce, hlavní prvky
